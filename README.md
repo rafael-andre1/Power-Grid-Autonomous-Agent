@@ -1,4 +1,4 @@
-# Power Grid Multi-Agent System Simulation
+# Power Grid Multi-Agent System 
 
 
 This project, developed for **Introduction to Intelligent and Autonomous Systems**, models the popular board game **Power Grid** using a **Multi-Agent System (MAS)** framework. The aim was to simulate the complex interactions between players and the game environment while adhering to the core rules and maintaining strategic depth.
